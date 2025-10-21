@@ -11,7 +11,7 @@
 ---
 
 <div> <br>
-  Über mich
+  <h2 align="center">Über mich</h2>
 - 🗓️ Lerne seit **Juni 2025**  Webentwicklung.
 - 📚 Aktuell: **HTML, CSS, JavaScript** ·
 - 🎯 Ziel: **Full-Stack Developer**.
