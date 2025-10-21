@@ -14,7 +14,8 @@
 - 🗓️ Lerne seit **Juni 2025**  Webentwicklung.
 - 📚 Aktuell: **HTML, CSS, JavaScript** ·
 - 🎯 Ziel: **Full-Stack Developer**.
-- 🧩 Ich mag sauberen, gut strukturierten Code und responsive UIs.</div>
+- 🧩 Ich mag sauberen, gut strukturierten Code und responsive UIs.
+</div>
 
 <h2 align="center">I code with</h2>
 
@@ -42,16 +43,17 @@
   _Repo: folgt / in Arbeit_
 
   </div>
-
+<div align="center"
 ### Was ich gerade übe
 - Mobile-first & Responsive Patterns (Overlays, Blur, Off-Canvas-Menüs)
 - Saubere Commits & Repo-Struktur (README, Assets, Branches)
-
- ### Kontakt
+  </div>
+ <div align="center"
+  ### Kontakt
 - GitHub: [@babalushi04](https://github.com/babalushi04)  
 - E-Mail: xhini95@gmail.com 
 - Discord: Virxhin Bytyqi // babalushi04
-
+ </div>
 ---
 
 <p align="center">Mehr Projekte folgen bald 🚀</p>
