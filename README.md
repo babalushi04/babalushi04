@@ -10,7 +10,8 @@
 
 ---
 
-<div> Über mich
+<div> <br>
+  Über mich
 - 🗓️ Lerne seit **Juni 2025**  Webentwicklung.
 - 📚 Aktuell: **HTML, CSS, JavaScript** ·
 - 🎯 Ziel: **Full-Stack Developer**.
