@@ -2,8 +2,8 @@
 
 <h1 align="center">Hallo, ich bin VIRXHIN BYTYQI 👋</h1>
 <p align="center">
-  Junior Webentwickler in Weiterbildung bei DEVELOPER AKADEMIE – Fokus: Frontend → Backend<br/>
-  „Code first, polish later.“
+  Junior Webentwickler in Weiterbildung an der Developer Akademie – Fokus: Frontend → Backend<br/>
+  „Erst bauen, dann feinschleifen.“
 </p>
 
 ---
