@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Profile README für VIRXHIN BYTYQI -->
 
-<!--
-**babalushi04/babalushi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hallo, ich bin VIRXHIN BYTYQI 👋</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Junior Webentwickler in Weiterbildung – Fokus: Frontend → Backend<br/>
+  „Code first, polish later.“
+</p>
+
+---
+
+<div> Über mich
+- 🗓️ Lerne seit **Juni 2025**  Webentwicklung.
+- 📚 Aktuell: **HTML, CSS, JavaScript** ·
+- 🎯 Ziel: **Full-Stack Developer**.
+- 🧩 Ich mag sauberen, gut strukturierten Code und responsive UIs.</div>
+
+<h2 align="center">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
+<h2 align="center">More to follow</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+<div align="center" Projekte (Auswahl)
+
+- Kochwelt – Rezeptseite mit Portionsrechner.
+  _Repo: folgt / in Arbeit_
+
+  </div>
+
+### Was ich gerade übe
+- Mobile-first & Responsive Patterns (Overlays, Blur, Off-Canvas-Menüs)
+- Saubere Commits & Repo-Struktur (README, Assets, Branches)
+
+ ### Kontakt
+- GitHub: [@babalushi04](https://github.com/babalushi04)  
+- E-Mail: xhini95@gmail.com 
+- Discord: Virxhin Bytyqi // babalushi04
+
+---
+
+<p align="center">Mehr Projekte folgen bald 🚀</p>
