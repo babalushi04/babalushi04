@@ -34,14 +34,17 @@
 ## Kontakt
 <p align="center">
   <a href="https://github.com/babalushi04" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/virxhin-bytyqi-194447375" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub - babalushi04" />
   </a>
-</p> 
-- Discord: **Virxhin Bytyqi** // **babalushi04**
-
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn - Virxhin Bytyqi" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/Virxhin Bytyqi" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi" />
+  </a>
+</p>
 ---
 
 <p align="center">Mehr Projekte folgen bald 🚀</p>
