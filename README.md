@@ -24,8 +24,12 @@
 </p>
 
 ## Projekte (Auswahl)
-- **Kochwelt** – Rezeptseite mit Portionsrechner.  
-  _Repo: folgt / in Arbeit_
+1. **Check In Restaurant** – Meine erste Website (Landing, Menü, Warenkorb, Reservieren).  
+   _Repo: folgt
+2. **Sakura Ramen** – One-Pager/Restaurant-Seite im modernen Stil.  
+   _Repo: folgt 
+3. **Kochwelt** – Rezeptseite mit Portionsrechner (DOM-Manipulation).  
+   _Repo: folgt 
 
 ## Was ich gerade übe
 - Mobile-first & Responsive Patterns (Overlays, Blur, Off-Canvas-Menüs)
@@ -45,7 +49,11 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi" />
   </a>
 </p>
-&nbsp;&nbsp;<a href="mailto:xhini95@gmail.com">📧</a>
----
+  &nbsp;&nbsp;
+  <a href="mailto:xhini95@gmail.com" aria-label="E-Mail an Virxhin Bytyqi">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="E-Mail - xhini95@gmail.com" />
+  </a>
+</p>
 
+##
 <p align="center">Mehr Projekte folgen bald 🚀</p>
