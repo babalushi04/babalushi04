@@ -41,15 +41,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub - babalushi04" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 10px;">
+  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank" text-decoration: none;>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn - Virxhin Bytyqi" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/Virxhin Bytyqi" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 10px;">
+  <a href="https://discord.com/users/Virxhin Bytyqi" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:xhini95@gmail.com" aria-label="E-Mail an Virxhin Bytyqi" rel="noopener noreferrer" style="text-decoration: none; margin: 10px;">
+  <a href="mailto:xhini95@gmail.com" aria-label="E-Mail an Virxhin Bytyqi">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="E-Mail - xhini95@gmail.com" />
   </a>
 </p>
