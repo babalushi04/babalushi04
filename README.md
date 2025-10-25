@@ -45,6 +45,7 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi" />
   </a>
 </p>
+&nbsp;&nbsp;<a href="mailto:xhini95@gmail.com">📧</a>
 ---
 
 <p align="center">Mehr Projekte folgen bald 🚀</p>
