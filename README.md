@@ -32,8 +32,14 @@
 - Saubere Commits & Repo-Struktur (README, Assets, Branches)
 
 ## Kontakt
-- GitHub: [@babalushi04](https://github.com/babalushi04)  
-- E-Mail: [xhini95@gmail.com](mailto:xhini95@gmail.com)  
+<p align="center">
+  <a href="https://github.com/babalushi04" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/virxhin-bytyqi-194447375" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+</p> 
 - Discord: **Virxhin Bytyqi** // **babalushi04**
 
 ---
