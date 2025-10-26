@@ -12,7 +12,7 @@
 - 🗓️ Lerne seit **Juni 2025** Webentwicklung.
 - 📚 Aktuell: **HTML, CSS, JavaScript**
 - 🎯 Ziel: **Full-Stack Developer**
-- 🧩 Ich mag sauberen, gut strukturierten Code und responsive UIs.
+- 🧩 Ich mag sauberen, gut strukturierten Code.
 
 ## Tech-Stack
 <p align="center">
