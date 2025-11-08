@@ -32,12 +32,12 @@
    _Repository :https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
 
 ## Was ich gerade übe
-Mobile-first Layouts mit CSS Grid/Flex; stabile Darstellung 320–1920 px.<br>
-Semantik & A11y: korrekte Landmark-Regions, Fokuszustände, Screenreader-Labels.<br>
-Fetch-Flows inkl. Loading/Fehler/Retry; kein Inline-JS, getrennte Zustandslogik.<br>
-Bild-Optimierung (Formate, Lazy Loading) für besseren LCP; Ziel: Lighthouse ≥ 90.<br>
-Form-Validierung (Portionsrechner/Kontakt) mit klaren Fehlermeldungen.<br>
-Git-Hygiene: kleine, aussagekräftige Commits; PRs unter 150 Zeilen.<br>
+-Mobile-first Layouts mit CSS Grid/Flex; stabile Darstellung 320–1920 px.<br>
+-Semantik & A11y: korrekte Landmark-Regions, Fokuszustände, Screenreader-Labels.<br>
+-Fetch-Flows inkl. Loading/Fehler/Retry; kein Inline-JS, getrennte Zustandslogik.<br>
+-Bild-Optimierung (Formate, Lazy Loading) für besseren LCP; Ziel: Lighthouse ≥ 90.<br>
+-Form-Validierung (Portionsrechner/Kontakt) mit klaren Fehlermeldungen.<br>
+-Git-Hygiene: kleine, aussagekräftige Commits; PRs unter 150 Zeilen.<br>
 
 ## Kontakt
 <p align="center">
