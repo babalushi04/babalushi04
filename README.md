@@ -12,7 +12,7 @@
 - 🗓️ Lerne seit **Juni 2025** Webentwicklung.
 - 📚 Aktuell: **HTML, CSS, JavaScript**
 - 🎯 Ziel: **Full-Stack Developer**
-- 🧩 Ich mag sauberen, gut strukturierten Code.
+- 
 
 ## Tech-Stack
 <p align="center">
@@ -45,7 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn - Virxhin Bytyqi" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/Virxhin Bytyqi" target="_blank">
+  <a href="https://discord.com/users/babalushi04" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi" />
   </a>
   &nbsp;&nbsp;
