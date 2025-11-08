@@ -27,7 +27,7 @@
 1. **Check In Restaurant** – Meine erste Website (Landing, Menü, Warenkorb, Reservieren).  
    _Repo: folgt
 2. **Sakura Ramen** – One-Pager/Restaurant-Seite im modernen Stil.  
-   _Repo: folgt 
+   _Repository :https://github.com/babalushi04/sakura-ramen.git 
 3. **Kochwelt** — Gruppenprojekt (HTML/CSS/JS): Rezeptseite mit dynamischem Portionsrechner und responsivem Layout,Navigation.
    _Repository :https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
 
