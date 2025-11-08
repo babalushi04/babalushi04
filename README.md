@@ -28,8 +28,8 @@
    _Repo: folgt
 2. **Sakura Ramen** – One-Pager/Restaurant-Seite im modernen Stil.  
    _Repo: folgt 
-3. **Kochwelt** — Gruppenprojekt (HTML/CSS/JS): Rezeptseite mit dynamischem Portionsrechner und responsivem Layout,Navigation, Input-Validierung, Mobile-Ansicht.
-   Repository : https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
+3. **Kochwelt** — Gruppenprojekt (HTML/CSS/JS): Rezeptseite mit dynamischem Portionsrechner und responsivem Layout,Navigation.
+   _Repository : https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
 
 ## Was ich gerade übe
 - Mobile-first & Responsive Patterns (Overlays, Blur, Off-Canvas-Menüs)
