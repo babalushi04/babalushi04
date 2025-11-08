@@ -31,7 +31,7 @@
 3. **Kochwelt** — Gruppenprojekt (HTML/CSS/JS): Rezeptseite mit dynamischem Portionsrechner und responsivem Layout,Navigation.
    _Repository :https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
 
-**Was ich gerade übe**
+## Was ich gerade übe
 Mobile-first Layouts mit CSS Grid/Flex; stabile Darstellung 320–1920 px.<br>
 Semantik & A11y: korrekte Landmark-Regions, Fokuszustände, Screenreader-Labels.<br>
 Fetch-Flows inkl. Loading/Fehler/Retry; kein Inline-JS, getrennte Zustandslogik.<br>
