@@ -28,8 +28,8 @@
    _Repo: folgt
 2. **Sakura Ramen** – One-Pager/Restaurant-Seite im modernen Stil.  
    _Repo: folgt 
-3. **Kochwelt** – Rezeptseite mit Portionsrechner (DOM-Manipulation).  
-   _Repo: folgt 
+3. **Kochwelt** –Erstes Gruppenprojekt der Weiterbildung in den Bereichen HTML, CSS und JavaScript,Rezeptseite mit Portionsrechner.  
+   _Repo:https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
 
 ## Was ich gerade übe
 - Mobile-first & Responsive Patterns (Overlays, Blur, Off-Canvas-Menüs)
