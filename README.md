@@ -49,7 +49,7 @@
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:xhini95@gmail.com" aria-label="E-Mail an Virxhin Bytyqi">
+  <a href="mailto:xhini95@gmail.com" aria-label="E-Mail an Virxhin Bytyqi" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="E-Mail - xhini95@gmail.com"/>
   </a>
 </p>
