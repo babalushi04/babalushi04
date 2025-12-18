@@ -3,7 +3,7 @@
 <h1 align="center">Hallo, ich bin VIRXHIN BYTYQI 👋</h1>
 <p align="center">
   Junior Webentwickler in Weiterbildung an der Developer Akademie – Fokus: Frontend und Backend<br/>
-  "Bauen. Messen. Verbessern"
+
 </p>
 
 ---
