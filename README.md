@@ -1,20 +1,22 @@
-<!-- Profile README für VIRXHIN BYTYQI -->
+<!-- Profile README for VIRXHIN BYTYQI -->
 
-<h1 align="center">Hallo, ich bin VIRXHIN BYTYQI 👋</h1>
+<h1 align="center">Hi, I'm VIRXHIN BYTYQI 👋</h1>
 <p align="center">
-  Junior Webentwickler in Weiterbildung an der Developer Akademie – Fokus: Frontend und Backend<br/>
-
+  Junior Web Developer in training at the Developer Akademie<br/>
+  Focus: Frontend & Backend Development
 </p>
 
 ---
 
-## Über mich
-- 🗓️ Lerne seit **Juni 2025** Webentwicklung.
-- 📚 Aktuell: **HTML, CSS, JavaScript**
-- 🎯 Ziel: **Full-Stack Developer**
+## About Me
+- 🗓️ Learning web development since **June 2025**
+- 📚 Currently working with **HTML, CSS, JavaScript**
+- 🎯 Goal: **Become a Full-Stack Developer**
+- 🧠 Strong interest in clean code, UI structure, and real-world projects
 
+---
 
-## Tech-Stack
+## Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   &nbsp;&nbsp;
@@ -23,40 +25,55 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
-## Projekte (Auswahl)
-1. **Check In Restaurant** – Meine erste Website (Landing, Menü, Warenkorb, Reservieren).  
-   _Repository :https://github.com/babalushi04/restaurant-webseite.git
-2. **Sakura Ramen** – One-Pager/Restaurant-Seite im modernen Stil.  
-   _Repository :https://github.com/babalushi04/sakura-ramen.git 
-3. **Kochwelt** — Gruppenprojekt (HTML/CSS/JS): Rezeptseite mit dynamischem Portionsrechner und responsivem Layout,Navigation.
-   _Repository :https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
+---
 
-## Was ich gerade übe
--Mobile-first Layouts mit CSS Grid/Flex; stabile Darstellung 320–1920 px.<br>
--Semantik & A11y: korrekte Landmark-Regions, Fokuszustände, Screenreader-Labels.<br>
--Fetch-Flows inkl. Loading/Fehler/Retry; kein Inline-JS, getrennte Zustandslogik.<br>
--Bild-Optimierung (Formate, Lazy Loading) für besseren LCP; Ziel: Lighthouse ≥ 90.<br>
--Form-Validierung (Portionsrechner/Kontakt) mit klaren Fehlermeldungen.<br>
--Git-Hygiene: kleine, aussagekräftige Commits; PRs unter 150 Zeilen.<br>
+## Selected Projects
+1. **Check In Restaurant** – My first complete website  
+   Features: landing page, menu, shopping cart, reservation flow  
+   Repository: https://github.com/babalushi04/restaurant-webseite.git
 
-## Kontakt
+2. **Sakura Ramen** – Modern restaurant one-page website  
+   Focus on layout, design consistency, and responsiveness  
+   Repository: https://github.com/babalushi04/sakura-ramen.git 
+
+3. **Kochwelt** – Group project (HTML / CSS / JavaScript)  
+   Recipe platform with dynamic portion calculator, navigation, and responsive layout  
+   Repository: https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
+
+---
+
+## What I’m Currently Learning
+- 📱 **Mobile-first layouts** using Flexbox & CSS Grid (320–1920px)
+- ♿ **Semantic HTML & Accessibility (A11y)**  
+  Landmark regions, focus states, ARIA labels, keyboard navigation
+- 🔄 **Fetch workflows** with loading states, error handling, and clean separation of logic
+- 🖼️ **Image optimization** (formats, lazy loading) to improve performance & LCP  
+  Target: Lighthouse score ≥ 90
+- 🧾 **Form validation** with clear user feedback (e.g. calculators & contact forms)
+- 🌱 **Git best practices**  
+  Small, meaningful commits and clean project structure
+
+---
+
+## Contact
 <p align="center">
   <a href="https://github.com/babalushi04" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub - babalushi04" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank" text-decoration: none;>
+  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn - Virxhin Bytyqi"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/babalushi04" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - Virxhin Bytyqi"/>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord - babalushi04"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:xhini95@gmail.com" aria-label="E-Mail an Virxhin Bytyqi" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="E-Mail - xhini95@gmail.com"/>
+  <a href="mailto:xhini95@gmail.com" aria-label="Email Virxhin Bytyqi" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email - xhini95@gmail.com"/>
   </a>
 </p>
 
-##
-<p align="center">Mehr Projekte folgen bald 🚀</p>
+---
+
+<p align="center">More projects coming soon 🚀</p>
