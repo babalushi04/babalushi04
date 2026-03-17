@@ -10,10 +10,9 @@
 
 ## About Me
 - 🗓️ Learning web development since **June 2025**
-- 📚 Currently working with **HTML, CSS, JavaScript**
-- 🎯 Goal: **Become a Full-Stack Developer**
-- 🧠 Strong interest in clean code, UI structure, and real-world projects
-
+- 💻 Building real-world projects with **HTML, CSS, JavaScript**
+- 🎯 Goal: **Full-Stack Developer with strong frontend focus**
+- 🧠 Focus on clean code, structured UI, and scalable solutions
 ---
 
 ## Tech Stack
@@ -37,11 +36,11 @@ Modern one-page website focused on responsive layout, clear structure, and consi
 ### Kochwelt
 Team project built with HTML, CSS, and JavaScript for a recipe platform with dynamic portion calculation and responsive navigation.  
 **Tech Stack:** HTML, CSS, JavaScript  
-**Repository:** [View Repository](https://github.com/babalushi04/Kochwelt))
+**Repository:** [View Repository](https://github.com/babalushi04/Kochwelt)
 
 ### BestellApp
-A modern, accessible restaurant ordering web application.
-**Tech Stack:**  HTML 5, CSS, JavaScript, Raleway Font – Locally embedded font
+A responsive restaurant ordering application with focus on usability, accessibility, and clean UI structure.
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6)
 **Repository:** [View Repository](https://github.com/babalushi04/BestellApp)
 
 ### Join – Kanban Project Management Tool
@@ -60,6 +59,10 @@ Includes user authentication, drag-and-drop task management, and a fully respons
 **Architecture:** Multi-Page Application (MPA)  
 **Repository:** [View Repository](https://github.com/babalushi04/Join)
 
+**My Contribution:**
+- Implemented board logic and task interactions
+- Developed responsive layouts and overlay components
+- Worked on task creation, editing, and drag-and-drop behavior
 ---
 
 ## What I’m Currently Learning
@@ -76,10 +79,14 @@ Includes user authentication, drag-and-drop task management, and a fully respons
 ---
 
 ## Contact
-<p align="center">
-  <a href="https://github.com/babalushi04" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub - babalushi04" />
-  </a>
+<a href="https://github.com/babalushi04" target="_blank">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    height="40" 
+    style="background-color: white; border-radius: 8px; padding: 5px;"
+    alt="GitHub - babalushi04" 
+  />
+</a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn - Virxhin Bytyqi"/>
