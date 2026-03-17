@@ -79,6 +79,7 @@ Includes user authentication, drag-and-drop task management, and a fully respons
 ---
 
 ## Contact
+<p align="center">
 <a href="https://github.com/babalushi04" target="_blank">
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
