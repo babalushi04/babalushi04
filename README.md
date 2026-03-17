@@ -37,7 +37,7 @@ Modern one-page website focused on responsive layout, clear structure, and consi
 ### Kochwelt
 Team project built with HTML, CSS, and JavaScript for a recipe platform with dynamic portion calculation and responsive navigation.  
 **Tech Stack:** HTML, CSS, JavaScript  
-**Repository:** [View Repository](https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git)
+**Repository:** [View Repository](https://github.com/babalushi04/Kochwelt))
 
 ### BestellApp
 A modern, accessible restaurant ordering web application.
@@ -58,7 +58,7 @@ Includes user authentication, drag-and-drop task management, and a fully respons
 
 **Tech Stack:** HTML, CSS, JavaScript  
 **Architecture:** Multi-Page Application (MPA)  
-**Repository:** [View Repository] (https://github.com/babalushi04/Join)
+**Repository:** [View Repository](https://github.com/babalushi04/Join)
 
 ---
 
