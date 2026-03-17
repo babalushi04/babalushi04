@@ -28,17 +28,33 @@
 ---
 
 ## Selected Projects
-1. **Check In Restaurant** – My first complete website  
-   Features: landing page, menu, shopping cart, reservation flow  
-   Repository: https://github.com/babalushi04/restaurant-webseite.git
 
-2. **Sakura Ramen** – Modern restaurant one-page website  
-   Focus on layout, design consistency, and responsiveness  
-   Repository: https://github.com/babalushi04/sakura-ramen.git 
+### Sakura Ramen
+Modern one-page website focused on responsive layout, clear structure, and consistent visual design.  
+**Tech Stack:** HTML, CSS  
+**Repository:** [View Repository](https://github.com/babalushi04/sakura-ramen.git)
 
-3. **Kochwelt** – Group project (HTML / CSS / JavaScript)  
-   Recipe platform with dynamic portion calculator, navigation, and responsive layout  
-   Repository: https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git
+### Kochwelt
+Team project built with HTML, CSS, and JavaScript for a recipe platform with dynamic portion calculation and responsive navigation.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Repository:** [View Repository](https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git)
+## Selected Projects
+
+### Join – Kanban Project Management Tool
+A web-based Kanban project management application developed in a collaborative team environment.  
+Includes user authentication, drag-and-drop task management, and a fully responsive interface.
+
+**Key Features:**
+- User authentication (login, guest access)
+- Drag-and-drop task management (Kanban board)
+- Task organization with priorities, categories, and subtasks
+- Dashboard with task overview and deadlines
+- Contact management system
+- Responsive design (desktop & mobile)
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Architecture:** Multi-Page Application (MPA)  
+**Repository:** [View Repository] [https://github.com/babalushi04/Join]
 
 ---
 
