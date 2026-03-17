@@ -38,7 +38,11 @@ Modern one-page website focused on responsive layout, clear structure, and consi
 Team project built with HTML, CSS, and JavaScript for a recipe platform with dynamic portion calculation and responsive navigation.  
 **Tech Stack:** HTML, CSS, JavaScript  
 **Repository:** [View Repository](https://github.com/OverOnetoNull/Kochwelt-Working-Tree.git)
-## Selected Projects
+
+### BestellApp
+A modern, accessible restaurant ordering web application.
+**Tech Stack:**  HTML 5, CSS, JavaScript, Raleway Font – Locally embedded font
+**Repository:** [View Repository](https://github.com/babalushi04/BestellApp)
 
 ### Join – Kanban Project Management Tool
 A web-based Kanban project management application developed in a collaborative team environment.  
@@ -54,7 +58,7 @@ Includes user authentication, drag-and-drop task management, and a fully respons
 
 **Tech Stack:** HTML, CSS, JavaScript  
 **Architecture:** Multi-Page Application (MPA)  
-**Repository:** [View Repository] [https://github.com/babalushi04/Join]
+**Repository:** [View Repository] (https://github.com/babalushi04/Join)
 
 ---
 
