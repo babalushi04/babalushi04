@@ -28,21 +28,6 @@
 
 ## Selected Projects
 
-### Sakura Ramen
-Modern one-page website focused on responsive layout, clear structure, and consistent visual design.  
-**Tech Stack:** HTML, CSS  
-**Repository:** [View Repository](https://github.com/babalushi04/sakura-ramen.git)
-
-### Kochwelt
-Team project built with HTML, CSS, and JavaScript for a recipe platform with dynamic portion calculation and responsive navigation.  
-**Tech Stack:** HTML, CSS, JavaScript  
-**Repository:** [View Repository](https://github.com/babalushi04/Kochwelt)
-
-### BestellApp
-A responsive restaurant ordering application with focus on usability, accessibility, and clean UI structure.
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6)
-**Repository:** [View Repository](https://github.com/babalushi04/BestellApp)
-
 ### Join – Kanban Project Management Tool
 A web-based Kanban project management application developed in a collaborative team environment.  
 Includes user authentication, drag-and-drop task management, and a fully responsive interface.
