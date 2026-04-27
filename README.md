@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Virxhin Bytyqi 👋</h1>
 
 <p align="center">
-  Junior Web Developer in training at the Developer Akademie<br/>
+  Junior Web Developer in training at the Developer Akademie <br/>
   Focused on Frontend Development with growing Backend knowledge
 </p>
 
@@ -24,13 +24,37 @@
 I am currently training as a **Junior Web Developer** at the **Developer Akademie** and have been actively building projects since **June 2025**.
 
 My focus is on developing responsive, structured and interactive web applications.  
-I enjoy turning ideas into working products, improving user interfaces step by step, and writing code that stays understandable and maintainable.
+I enjoy turning ideas into working products, improving user interfaces step by step, debugging problems systematically, and writing code that stays understandable and maintainable.
 
-What drives me most:
-- building real projects instead of only learning theory
-- improving code quality through practice and debugging
-- strengthening frontend skills while steadily expanding backend understanding
-- learning how larger applications are structured and scaled
+I learn best by building real projects and improving them continuously.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Core Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Workflow & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accessibility-A11y-5A0FC8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-JavaScript-FF9800?style=for-the-badge" />
+</p>
+
+### Currently Expanding
+<p>
+  <img src="https://img.shields.io/badge/Backend-Growing%20Knowledge-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Learning-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-Optimization-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Continuous%20Improvement-673AB7?style=for-the-badge" />
+</p>
 
 ---
 
@@ -41,9 +65,9 @@ What drives me most:
 - Modern **CSS3**
 - **Flexbox** and **CSS Grid**
 - **Responsive Design**
-- **Mobile-first** layouts
+- **Mobile-first layouts**
 - Reusable UI thinking
-- Clean page structure and component-based organization
+- Clean page structure and maintainable styling
 - Accessibility basics (**A11y**)
 - Focus states, keyboard-friendly interactions and semantic markup
 
@@ -61,7 +85,7 @@ What drives me most:
 - Error handling
 - Working with JSON data
 - Audio integration in browser projects
-- Basic game logic and animation control
+- Basic game logic, animation handling and collision logic
 
 ### Development Workflow
 - Git & GitHub
@@ -73,39 +97,14 @@ What drives me most:
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### Languages & Core Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/A11y-Basics-5A0FC8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-JavaScript-FF9800?style=for-the-badge" />
-</p>
-
-### Currently Expanding
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-Learning-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Growing%20Knowledge-607D8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Improvement-4CAF50?style=for-the-badge" />
-</p>
-
----
-
 ## 📂 Selected Projects
 
 ### Join – Kanban Project Management Tool
 A collaborative **Kanban web application** developed in a team environment.
 
-**Features:**
+**Repository:** [View Join Repository](https://github.com/babalushi04/Join)
+
+**Project Highlights:**
 - User authentication
 - Guest access
 - Drag-and-drop task management
@@ -115,36 +114,48 @@ A collaborative **Kanban web application** developed in a team environment.
 - Responsive layout
 
 **Tech Stack:** HTML, CSS, JavaScript  
-**Architecture:** Multi-Page Application (MPA)  
-**Repository:** [View Repository](https://github.com/babalushi04/Join)
+**Architecture:** Multi-Page Application (MPA)
 
 **My Contribution:**
 - Implemented board logic and task interactions
 - Worked on responsive layouts
-- Built overlay components
+- Built and improved overlay components
 - Supported task creation and editing features
-- Improved drag-and-drop behavior
+- Improved drag-and-drop behavior and usability
+
+**What I learned through this project:**
+- How to work in a team project
+- How to structure larger frontend codebases
+- How to improve interaction-heavy UI features
+- How to build and refine responsive application layouts
 
 ---
 
 ### El Pollo Loco – 2D Browser Game
 A browser-based **jump-and-run game** built with **object-oriented JavaScript**.
 
-This project helped me understand how interactive browser games are structured and how visuals, assets, sound and logic work together.
+**Repository:** [View El Pollo Loco Repository](https://github.com/babalushi04/EL-Pollo-Loco)
+
+**Project Highlights:**
+- Object-oriented JavaScript structure
+- Character movement and animation logic
+- Collision detection
+- Enemy and object interactions
+- Status bar / health logic
+- Audio and sound integration
+- UI and start screen improvements
+- Background and visual adjustments
 
 **What I worked on / learned:**
 - Class-based JavaScript architecture
-- Character movement and animation logic
-- Collision detection
-- Enemy/object interactions
-- Status and health logic
-- Audio integration and management
-- UI and start screen improvements
-- Background design and visual refinement
-- Organizing assets in a cleaner structure
+- Organizing logic, assets and interactions in a larger project
+- Improving game UI and visual presentation
+- Working with sounds and browser audio
+- Refining gameplay-related frontend logic
+- Understanding how animations, collisions and state changes work together
 
 **Main Learning Outcome:**  
-This project improved my understanding of larger JavaScript codebases and strengthened my ability to work on interactive features, game logic and structured frontend code.
+This project strengthened my understanding of interactive JavaScript applications and showed me how visuals, game logic, sound and user interaction connect in a real browser-based project.
 
 ---
 
@@ -162,10 +173,10 @@ This project improved my understanding of larger JavaScript codebases and streng
 
 ## 🧠 My Development Mindset
 
-- I like solving problems step by step
+- I solve problems step by step
 - I prefer clean and understandable code over quick but messy solutions
 - I learn best by building real projects
-- I continuously improve existing work instead of stopping at “good enough”
+- I improve existing solutions instead of stopping at “it works”
 - I value structure, usability and maintainability
 
 ---
