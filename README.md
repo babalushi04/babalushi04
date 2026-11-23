@@ -1,222 +1,106 @@
-<h1 align="center">Hi, I'm Virxhin Bytyqi 👋</h1>
+<h1 align="center">Virxhin Bytyqi</h1>
 
 <p align="center">
-  Junior Web Developer in training at the Developer Akademie <br/>
-  Focused on Frontend Development with growing Backend knowledge
+  <strong>Junior Frontend Developer</strong> · Developer Akademie · Regensburg, Germany
 </p>
 
 <p align="center">
-  I build responsive web applications and interactive browser-based projects with HTML, CSS and JavaScript.
-  My focus is on clean structure, maintainable code, user-friendly interfaces and continuous improvement through real projects.
+  I build responsive, accessible web applications — and I ship them for real users.<br/>
+  Alongside my training I run my own small business, and I built and maintain its live website.
 </p>
 
 <p align="center">
-  <a href="https://github.com/babalushi04?tab=repositories">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375">LinkedIn</a> •
-  <a href="mailto:xhini95@gmail.com">Email</a> •
-  <a href="https://discord.com/users/babalushi04">Discord</a>
+  <a href="https://www.clearifix.com">Live Project</a> ·
+  <a href="https://portfolio-five-flax-24.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375">LinkedIn</a> ·
+  <a href="mailto:xhini95@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-I am currently training as a **Junior Web Developer** at the **Developer Akademie** and have been actively building projects since **June 2025**.
+I have been training as a Junior Web Developer at the **Developer Akademie** since **June 2025**.
+What makes my path a little different: I also run **Clearifix**, a building-cleaning business near Regensburg.
+That means I don't only write code for exercises — I build software that has to work for real customers,
+and I make product decisions with a client's perspective: *What does the user actually need? What can go?*
 
-My focus is on developing responsive, structured and interactive web applications.  
-I enjoy turning ideas into working products, improving user interfaces step by step, debugging problems systematically, and writing code that stays understandable and maintainable.
-
-I learn best by building real projects and improving them continuously.
+I learn by building, I debug step by step, and I don't stop at "it works".
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Featured project
 
-### Languages & Core Technologies
+### Clearifix — Business Website · [clearifix.com](https://www.clearifix.com)
+
+The production website of my own cleaning company. Live, used by real customers, deployed via CI on every push.
+
+- **Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Vercel
+- **Server action** for the contact form with input validation, HTML escaping and transactional email (Resend)
+- **GDPR-compliant consent handling** — analytics and Google Maps load only after opt-in
+- **SEO:** metadata per page, sitemap, robots, permanent redirects for removed URLs
+- **Refactoring:** reduced the site from 28 pages and a full backend (auth, database, payments)
+  to a lean 8-page static site — less to maintain, faster, easier for customers to understand
+- **AI-assisted workflow:** planned and reviewed changes with Claude Code, verified every change with a production build before deploying
+
+---
+
+## Training projects
+
+### Join — Kanban Project Management · [Repository](https://github.com/babalushi04/Join)
+
+Team project: a collaborative Kanban board with authentication, guest access, drag-and-drop,
+priorities, subtasks, contacts and a dashboard.
+
+**My part:** board logic and task interactions, drag-and-drop behaviour, overlay components,
+task creation/editing and responsive layouts.
+**Stack:** HTML · CSS · JavaScript (multi-page application)
+
+### El Pollo Loco — 2D Browser Game · [Repository](https://github.com/babalushi04/EL-Pollo-Loco)
+
+A jump-and-run game built with **object-oriented JavaScript**: class-based architecture,
+animation and movement logic, collision detection, health/status bars and sound.
+Taught me how state, rendering and user input work together in a larger codebase.
+
+---
+
+## Tech stack
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
-
-### Workflow & Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accessibility-A11y-5A0FC8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-JavaScript-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-### Currently Expanding
-<p>
-  <img src="https://img.shields.io/badge/Backend-Growing%20Knowledge-607D8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Learning-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Optimization-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Continuous%20Improvement-673AB7?style=for-the-badge" />
-</p>
+**Strong in:** semantic HTML, responsive layouts (320–1920 px, mobile-first), Flexbox & Grid,
+DOM manipulation, OOP in JavaScript, form validation, fetch & JSON, accessibility basics (focus states, keyboard navigation).
+
+**Currently learning:** TypeScript in depth, React patterns, REST APIs and backend fundamentals, performance optimization.
 
 ---
 
-## 🚀 What I’ve Learned So Far
+## How I work
 
-### Frontend Development
-- Semantic **HTML5**
-- Modern **CSS3**
-- **Flexbox** and **CSS Grid**
-- **Responsive Design**
-- **Mobile-first layouts**
-- Reusable UI thinking
-- Clean page structure and maintainable styling
-- Accessibility basics (**A11y**)
-- Focus states, keyboard-friendly interactions and semantic markup
-
-### JavaScript Development
-- **DOM manipulation**
-- **Event handling**
-- **Arrays, objects, loops, conditionals, functions**
-- **ES6+ syntax**
-- **Object-oriented JavaScript**
-- Class-based project structure
-- State handling and interaction logic
-- **Drag-and-drop**
-- Form validation
-- Fetch workflows
-- Error handling
-- Working with JSON data
-- Audio integration in browser projects
-- Basic game logic, animation handling and collision logic
-
-### Development Workflow
-- Git & GitHub
-- Team collaboration
-- Structuring larger projects
-- Debugging step by step
-- Breaking features into smaller tasks
-- Improving UI/UX through iteration
+- Break features into small, testable steps
+- Keep code readable for the next person — including future me
+- Check the result on real devices, not just in the editor
+- Remove what isn't needed: the best feature is sometimes the one you delete
 
 ---
-
-## 📂 Selected Projects
-
-### Join – Kanban Project Management Tool
-A collaborative **Kanban web application** developed in a team environment.
-
-**Repository:** [View Join Repository](https://github.com/babalushi04/Join)
-
-**Project Highlights:**
-- User authentication
-- Guest access
-- Drag-and-drop task management
-- Task priorities, categories and subtasks
-- Dashboard overview
-- Contact management
-- Responsive layout
-
-**Tech Stack:** HTML, CSS, JavaScript  
-**Architecture:** Multi-Page Application (MPA)
-
-**My Contribution:**
-- Implemented board logic and task interactions
-- Worked on responsive layouts
-- Built and improved overlay components
-- Supported task creation and editing features
-- Improved drag-and-drop behavior and usability
-
-**What I learned through this project:**
-- How to work in a team project
-- How to structure larger frontend codebases
-- How to improve interaction-heavy UI features
-- How to build and refine responsive application layouts
-
----
-
-### El Pollo Loco – 2D Browser Game
-A browser-based **jump-and-run game** built with **object-oriented JavaScript**.
-
-**Repository:** [View El Pollo Loco Repository](https://github.com/babalushi04/EL-Pollo-Loco)
-
-**Project Highlights:**
-- Object-oriented JavaScript structure
-- Character movement and animation logic
-- Collision detection
-- Enemy and object interactions
-- Status bar / health logic
-- Audio and sound integration
-- UI and start screen improvements
-- Background and visual adjustments
-
-**What I worked on / learned:**
-- Class-based JavaScript architecture
-- Organizing logic, assets and interactions in a larger project
-- Improving game UI and visual presentation
-- Working with sounds and browser audio
-- Refining gameplay-related frontend logic
-- Understanding how animations, collisions and state changes work together
-
-**Main Learning Outcome:**  
-This project strengthened my understanding of interactive JavaScript applications and showed me how visuals, game logic, sound and user interaction connect in a real browser-based project.
-
----
-
-## 📈 What I’m Currently Improving
-
-- Responsive layouts from **320px to 1920px**
-- Accessibility and semantic HTML
-- Cleaner JavaScript architecture
-- Better fetch workflows and error handling
-- Performance optimization
-- More structured project organization
-- Stronger frontend patterns with growing backend understanding
-
----
-
-## 🧠 My Development Mindset
-
-- I solve problems step by step
-- I prefer clean and understandable code over quick but messy solutions
-- I learn best by building real projects
-- I improve existing solutions instead of stopping at “it works”
-- I value structure, usability and maintainability
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babalushi04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <strong>Open to junior frontend roles and internships — Regensburg or remote.</strong><br/>
+  <a href="mailto:xhini95@gmail.com">xhini95@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375">LinkedIn</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babalushi04&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babalushi04&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📬 Contact
-
-<p align="center">
-  <a href="https://github.com/babalushi04" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/virxhin-bytyqi-194447375" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/babalushi04" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:xhini95@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">More projects coming soon 🚀</p>
